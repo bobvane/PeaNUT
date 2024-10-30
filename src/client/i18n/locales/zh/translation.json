@@ -1,46 +1,46 @@
 {
-  "noDevicesError": "No devices found on this server.",
-  "updateAvailable": "Update Available",
-  "device": "Device",
-  "manufacturer": "Manufacturer",
-  "model": "Model",
-  "serial": "Serial",
-  "currentLoad": "Current Load",
-  "batteryCharge": "Battery Charge",
-  "batteryRuntime": "Battery Runtime",
-  "lastUpdated": "Last Updated",
+  "noDevicesError": "在此服务器上找不到设备。",
+  "updateAvailable": "更新可用",
+  "device": "设备",
+  "manufacturer": "生产商",
+  "model": "模式",
+  "serial": "序列号",
+  "currentLoad": "当前负载",
+  "batteryCharge": "电池充电量",
+  "batteryRuntime": "电池运行时间",
+  "lastUpdated": "最近更新",
   "docs": "API Docs",
   "lineChart": {
-    "inputVoltage": "Input Voltage",
-    "outputVoltage": "Output Voltage",
-    "nominalInputVoltage": "Nominal Input Voltage"
+    "inputVoltage": "输入电压",
+    "outputVoltage": "输出电压",
+    "nominalInputVoltage": "标称输入电压"
   },
   "wattsChart": {
-    "realpower": "Realpower",
-    "nominalRealpower": "Nominal Realpower"
+    "realpower": "实际功率",
+    "nominalRealpower": "标称实际功率"
   },
   "grid": {
-    "key": "Key",
-    "value": "Value"
+    "key": "关键字",
+    "value": "值"
   },
   "sidebar": {
-    "settings": "Settings",
-    "theme": "Theme",
-    "disconnect": "Disconnect",
-    "refresh": "Refresh"
+    "settings": "设置",
+    "theme": "主题",
+    "disconnect": "断开连接",
+    "refresh": "刷新"
   },
   "connect": {
-    "server": "Server Address",
-    "port": "Port",
-    "connect": "Connect",
-    "test": "Test",
-    "success": "Connection successful",
-    "error": "Connection failed. Check the logs for more info.",
-    "testing": "Testing connection..."
+    "server": "服务器地址",
+    "port": "端口",
+    "connect": "连接",
+    "test": "测试",
+    "success": "连接成功！",
+    "error": "连接失败。请检查日志获取更多信息。",
+    "testing": "测试连接中..."
   },
   "theme": {
-    "dark": "Dark",
-    "light": "Light",
-    "system": "System"
+    "dark": "深色",
+    "light": "亮色",
+    "system": "系统"
   }
 }
